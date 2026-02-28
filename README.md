@@ -1,4 +1,4 @@
-# TRABAJO-PRACTICO-FINAL-
+# TRABAJO PRACTICO FINAL
 ## Grupo 10, Abigail Barbieri y Natalia Curual, Introduccion a la Ingenieria en Computacion comision 2
 
 En el repositorio se encuentran el código completo, el diagrama de flujo del programa principal y el grafo del mismo.
